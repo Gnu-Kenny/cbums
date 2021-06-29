@@ -9,3 +9,7 @@ venvs/
 
 # 캐시
 __pycache__/
+
+projects/config/settings.py
+projects/db.sqlite3
+.vscode/
